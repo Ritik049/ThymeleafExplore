@@ -1,14 +1,13 @@
-package com.example.ThymeleafExplore;
+package com.example.StarterThymeleaf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ThymeleafExploreApplication {
+public class StarterThymeleafApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ThymeleafExploreApplication.class, args);
+		SpringApplication.run(StarterThymeleafApplication.class, args);
 	}
- 
-	
+
 }
